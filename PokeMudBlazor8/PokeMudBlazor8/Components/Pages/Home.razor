@@ -1,0 +1,40 @@
+﻿@page "/"
+
+<MudThemeProvider @bind-IsDarkMode="@_isDarkMode" Theme="MyCustomTheme"/>
+    <MudDialogProvider/>
+    <MudSnackbarProvider/>
+
+    <MudToggleIconButton @bind-Toggle="@_isDarkMode"
+                         Icon="@Icons.Material.Filled.DarkMode" Color="Color.Default"
+                         ToggledIcon="@Icons.Material.Filled.WbSunny" ToggledColor="Color.Warning"/>
+
+    <PageTitle>Home</PageTitle>
+
+    <h1>Hello, world!</h1>
+    <p>Welcome to your new app.</p>
+
+
+@code
+{
+    private bool _isDarkMode;
+    MudTheme MyCustomTheme = new MudTheme()
+    {
+        PaletteLight = new PaletteLight()
+        {
+            Primary = Colors.DeepPurple.Darken2,
+            Secondary = Colors.Green.Accent4,
+            AppbarBackground = Colors.BlueGray.Darken3,
+
+            TextPrimary = Colors.Shades.Black,
+            TextSecondary = Colors.Shades.Black
+        },
+        PaletteDark = new PaletteDark()
+        {
+            Primary = Colors.DeepPurple.Lighten1,
+            Secondary = Colors.Green.Lighten2,
+            AppbarBackground = Colors.BlueGray.Darken4,
+            TextPrimary = Colors.Shades.White,
+            TextSecondary = Colors.Shades.White
+        }
+    };
+}
