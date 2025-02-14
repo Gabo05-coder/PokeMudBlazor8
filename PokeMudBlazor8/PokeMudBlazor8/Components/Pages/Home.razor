@@ -1,10 +1,10 @@
 ﻿@page "/"
 
-<MudThemeProvider @bind-IsDarkMode="@_isDarkMode" Theme="MyCustomTheme"/>
+<MudThemeProvider @bind-IsDarkMode="@_isDarkMode"/>
     <MudDialogProvider/>
     <MudSnackbarProvider/>
 
-    <MudToggleIconButton @bind-Toggle="@_isDarkMode"
+    <MudIconButton @bind-Toggle="@_isDarkMode" @onclick="DarkModeToggle"
                          Icon="@Icons.Material.Filled.DarkMode" Color="Color.Default"
                          ToggledIcon="@Icons.Material.Filled.WbSunny" ToggledColor="Color.Warning"/>
 
@@ -16,25 +16,10 @@
 
 @code
 {
-    private bool _isDarkMode;
-    MudTheme MyCustomTheme = new MudTheme()
-    {
-        PaletteLight = new PaletteLight()
-        {
-            Primary = Colors.DeepPurple.Darken2,
-            Secondary = Colors.Green.Accent4,
-            AppbarBackground = Colors.BlueGray.Darken3,
+    private bool _isDarkMode = true;
 
-            TextPrimary = Colors.Shades.Black,
-            TextSecondary = Colors.Shades.Black
-        },
-        PaletteDark = new PaletteDark()
-        {
-            Primary = Colors.DeepPurple.Lighten1,
-            Secondary = Colors.Green.Lighten2,
-            AppbarBackground = Colors.BlueGray.Darken4,
-            TextPrimary = Colors.Shades.White,
-            TextSecondary = Colors.Shades.White
-        }
-    };
+    private void DarkModeToggle()
+    {
+        _isDarkMode = !_isDarkMode;
+    }
 }

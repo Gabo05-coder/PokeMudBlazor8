@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PokeMudBlazor8.Client",
   "resources": {
-    "hash": "sha256-teMMGAIlT8V1mlLOrk2gWHR0mTu7VsNQh1S/T4Nl1iU=",
+    "hash": "sha256-LCI5j6+uh2Wp0Ybn39LhsFSJKFzKV567gzlxpMHaFNk=",
     "jsModuleNative": {
       "dotnet.native.8.0.13.fvlr06k0sb.js": "sha256-xNQsYHtL1vcbrVTHDZAwJM4WovpoyjsrM2C6FQ8cW1w="
     },
@@ -211,10 +211,10 @@
       "mscorlib.wasm": "sha256-RAf5jgXLg+06C4tJ3CabxAZaVjCN2/+E6fxRjRN8yHk=",
       "netstandard.wasm": "sha256-KCAE8RQwTurP5pGnGF819qf9sK++2O0rXzt6tOjlfi8=",
       "System.Private.CoreLib.wasm": "sha256-LQqLbHgeEX4HONx7GwIxGgmzIXP6n2OPxqnq+/4Tyqk=",
-      "PokeMudBlazor8.Client.wasm": "sha256-CfDBUxm3IlPQHJTqTs2/gcn1iq5oEtTD4UObofEwQlk="
+      "PokeMudBlazor8.Client.wasm": "sha256-FyWXHjy3Tiz0N9rOEPhcuxV6sRvSu59WvZ50XdIKXyE="
     },
     "pdb": {
-      "PokeMudBlazor8.Client.pdb": "sha256-aWudZq1kJ9OpMSqHj9XR8WOXp3CcihsBwE/kI6hnsyU="
+      "PokeMudBlazor8.Client.pdb": "sha256-rLZwx3OQm9SZ1ZtboMQo09FYGmMUsaya3X2sSVdKF3M="
     }
   },
   "cacheBootResources": true,

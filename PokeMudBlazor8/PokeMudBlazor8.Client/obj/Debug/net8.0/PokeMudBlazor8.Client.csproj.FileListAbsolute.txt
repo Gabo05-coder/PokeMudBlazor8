@@ -1041,3 +1041,4 @@ D:\PokemonTestProject\PokeMudBlazor8\PokeMudBlazor8\PokeMudBlazor8.Client\obj\De
 D:\PokemonTestProject\PokeMudBlazor8\PokeMudBlazor8\PokeMudBlazor8.Client\obj\Debug\net8.0\refint\PokeMudBlazor8.Client.dll
 D:\PokemonTestProject\PokeMudBlazor8\PokeMudBlazor8\PokeMudBlazor8.Client\obj\Debug\net8.0\PokeMudBlazor8.Client.pdb
 D:\PokemonTestProject\PokeMudBlazor8\PokeMudBlazor8\PokeMudBlazor8.Client\obj\Debug\net8.0\ref\PokeMudBlazor8.Client.dll
+D:\PokemonTestProject\PokeMudBlazor8\PokeMudBlazor8\PokeMudBlazor8.Client\obj\Debug\net8.0\PokeMudBlazor8.Client.sourcelink.json

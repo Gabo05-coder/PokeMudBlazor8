@@ -63,3 +63,4 @@ D:\PokemonTestProject\PokeMudBlazor8\PokeMudBlazor8\PokeMudBlazor8\obj\Debug\net
 D:\PokemonTestProject\PokeMudBlazor8\PokeMudBlazor8\PokeMudBlazor8\obj\Debug\net8.0\PokeMudBlazor8.pdb
 D:\PokemonTestProject\PokeMudBlazor8\PokeMudBlazor8\PokeMudBlazor8\obj\Debug\net8.0\PokeMudBlazor8.genruntimeconfig.cache
 D:\PokemonTestProject\PokeMudBlazor8\PokeMudBlazor8\PokeMudBlazor8\obj\Debug\net8.0\ref\PokeMudBlazor8.dll
+D:\PokemonTestProject\PokeMudBlazor8\PokeMudBlazor8\PokeMudBlazor8\obj\Debug\net8.0\PokeMudBlazor8.sourcelink.json
