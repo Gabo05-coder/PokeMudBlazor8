@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PokeMudBlazor8.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+409c86a99adaef751648a6ad0dd14a20e4cc2174")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9967223389b2bf949e979e0d1b1705d0609d291f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PokeMudBlazor8.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PokeMudBlazor8.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
