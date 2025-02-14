@@ -1,39 +1,39 @@
 {
   "Files": [
     {
-      "Id": "D:\\PokemonTestProject\\PokeMudBlazor8\\PokeMudBlazor8\\PokeMudBlazor8\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PokeMudBlazor8.bundle.scp.css",
-      "PackagePath": "staticwebassets\\PokeMudBlazor8.bundle.scp.css"
+      "Id": "/Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/scopedcss/projectbundle/PokeMudBlazor8.bundle.scp.css",
+      "PackagePath": "staticwebassets/PokeMudBlazor8.bundle.scp.css"
     },
     {
-      "Id": "D:\\PokemonTestProject\\PokeMudBlazor8\\PokeMudBlazor8\\PokeMudBlazor8\\wwwroot\\app.css",
-      "PackagePath": "staticwebassets\\app.css"
+      "Id": "/Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
     },
     {
-      "Id": "D:\\PokemonTestProject\\PokeMudBlazor8\\PokeMudBlazor8\\PokeMudBlazor8\\wwwroot\\bootstrap\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+      "Id": "/Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "D:\\PokemonTestProject\\PokeMudBlazor8\\PokeMudBlazor8\\PokeMudBlazor8\\wwwroot\\bootstrap\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+      "Id": "/Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\PokemonTestProject\\PokeMudBlazor8\\PokeMudBlazor8\\PokeMudBlazor8\\wwwroot\\favicon.png",
-      "PackagePath": "staticwebassets\\favicon.png"
+      "Id": "/Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PokeMudBlazor8.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.PokeMudBlazor8.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PokeMudBlazor8.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.PokeMudBlazor8.props",
       "PackagePath": "build\\PokeMudBlazor8.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PokeMudBlazor8.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PokeMudBlazor8.props",
       "PackagePath": "buildMultiTargeting\\PokeMudBlazor8.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PokeMudBlazor8.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PokeMudBlazor8.props",
       "PackagePath": "buildTransitive\\PokeMudBlazor8.props"
     }
   ],

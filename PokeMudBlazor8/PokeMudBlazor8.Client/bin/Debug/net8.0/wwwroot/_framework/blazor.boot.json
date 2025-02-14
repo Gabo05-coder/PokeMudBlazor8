@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "PokeMudBlazor8.Client",
   "resources": {
-    "hash": "sha256-mHJX3mVuevbo6xRoE09eVvssZzkHtsLM+A7qqWPFCSE=",
+    "hash": "sha256-jUJKk2bhuRBHRYED/L5WAaJofwQw4RsdA9PPr60/UFE=",
     "jsModuleNative": {
-      "dotnet.native.8.0.13.fvlr06k0sb.js": "sha256-xNQsYHtL1vcbrVTHDZAwJM4WovpoyjsrM2C6FQ8cW1w="
+      "dotnet.native.8.0.11.y4l4lsu6g8.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.13.mukeu6o1ow.js": "sha256-13vqU3hueOALvSTEM8xnJkJj2exVJYtNc1KZelMCDf0="
+      "dotnet.runtime.8.0.11.t0ndiqdmzc.js": "sha256-nam8JTYKjhMKOTg6+FlihYP6JpWPGe3jjM9fiUFWzhY="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-XhsharnkthjahGEiBkFjCLc/87/Tecti9860TIEq0H0="
+      "dotnet.native.wasm": "sha256-1NJsNYy4gznvjVwzcG5w3Cl50enK1KB/7cKBMY+6jz4="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -211,10 +211,10 @@
       "mscorlib.wasm": "sha256-RAf5jgXLg+06C4tJ3CabxAZaVjCN2/+E6fxRjRN8yHk=",
       "netstandard.wasm": "sha256-KCAE8RQwTurP5pGnGF819qf9sK++2O0rXzt6tOjlfi8=",
       "System.Private.CoreLib.wasm": "sha256-LQqLbHgeEX4HONx7GwIxGgmzIXP6n2OPxqnq+/4Tyqk=",
-      "PokeMudBlazor8.Client.wasm": "sha256-Szy08N7dyOjTvMpJQscEwX1hvJU8z1Is/+1TJVZblKQ="
+      "PokeMudBlazor8.Client.wasm": "sha256-vMriBq/OxBH2OBRt1JTQbUEmN+Bpqkrn/vgJUKYw1rE="
     },
     "pdb": {
-      "PokeMudBlazor8.Client.pdb": "sha256-jO7NN0mG+drRKOFz/Zos0M4sPCzwN3mEjZLOHvbwH4E="
+      "PokeMudBlazor8.Client.pdb": "sha256-png1cGPHB+30ICqUl+KvEsa7QflR5FyA9aUJGo5CTAM="
     }
   },
   "cacheBootResources": true,

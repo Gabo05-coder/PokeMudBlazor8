@@ -16,19 +16,19 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = PokeMudBlazor8.Client
 build_property.RootNamespace = PokeMudBlazor8.Client
-build_property.ProjectDir = D:\PokemonTestProject\PokeMudBlazor8\PokeMudBlazor8\PokeMudBlazor8.Client\
+build_property.ProjectDir = /Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\PokemonTestProject\PokeMudBlazor8\PokeMudBlazor8\PokeMudBlazor8.Client
+build_property.MSBuildProjectDirectory = /Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/PokemonTestProject/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[/Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PokemonTestProject/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/_Imports.razor]
+[/Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

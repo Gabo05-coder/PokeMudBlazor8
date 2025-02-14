@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PokemonTestProject\\PokeMudBlazor8\\PokeMudBlazor8\\PokeMudBlazor8\\PokeMudBlazor8.csproj": {}
+    "/Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.csproj": {}
   },
   "projects": {
-    "D:\\PokemonTestProject\\PokeMudBlazor8\\PokeMudBlazor8\\PokeMudBlazor8.Client\\PokeMudBlazor8.Client.csproj": {
+    "/Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/PokeMudBlazor8.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PokemonTestProject\\PokeMudBlazor8\\PokeMudBlazor8\\PokeMudBlazor8.Client\\PokeMudBlazor8.Client.csproj",
+        "projectUniqueName": "/Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/PokeMudBlazor8.Client.csproj",
         "projectName": "PokeMudBlazor8.Client",
-        "projectPath": "D:\\PokemonTestProject\\PokeMudBlazor8\\PokeMudBlazor8\\PokeMudBlazor8.Client\\PokeMudBlazor8.Client.csproj",
-        "packagesPath": "C:\\Users\\soporte\\.nuget\\packages\\",
-        "outputPath": "D:\\PokemonTestProject\\PokeMudBlazor8\\PokeMudBlazor8\\PokeMudBlazor8.Client\\obj\\",
+        "projectPath": "/Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/PokeMudBlazor8.Client.csproj",
+        "packagesPath": "/Users/alejandrobarranco/.nuget/packages/",
+        "outputPath": "/Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\soporte\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/alejandrobarranco/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,13 +50,13 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.13, )",
+              "version": "[8.0.11, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.13, )",
+              "version": "[8.0.11, )",
               "autoReferenced": true
             },
             "MudBlazor": {
@@ -85,7 +78,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.13, 8.0.13]"
+              "version": "[8.0.11, 8.0.11]"
             }
           ],
           "frameworkReferences": {
@@ -93,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/alejandrobarranco/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -102,37 +95,30 @@
         }
       }
     },
-    "D:\\PokemonTestProject\\PokeMudBlazor8\\PokeMudBlazor8\\PokeMudBlazor8\\PokeMudBlazor8.csproj": {
+    "/Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PokemonTestProject\\PokeMudBlazor8\\PokeMudBlazor8\\PokeMudBlazor8\\PokeMudBlazor8.csproj",
+        "projectUniqueName": "/Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.csproj",
         "projectName": "PokeMudBlazor8",
-        "projectPath": "D:\\PokemonTestProject\\PokeMudBlazor8\\PokeMudBlazor8\\PokeMudBlazor8\\PokeMudBlazor8.csproj",
-        "packagesPath": "C:\\Users\\soporte\\.nuget\\packages\\",
-        "outputPath": "D:\\PokemonTestProject\\PokeMudBlazor8\\PokeMudBlazor8\\PokeMudBlazor8\\obj\\",
+        "projectPath": "/Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.csproj",
+        "packagesPath": "/Users/alejandrobarranco/.nuget/packages/",
+        "outputPath": "/Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\soporte\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/alejandrobarranco/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\PokemonTestProject\\PokeMudBlazor8\\PokeMudBlazor8\\PokeMudBlazor8.Client\\PokeMudBlazor8.Client.csproj": {
-                "projectPath": "D:\\PokemonTestProject\\PokeMudBlazor8\\PokeMudBlazor8\\PokeMudBlazor8.Client\\PokeMudBlazor8.Client.csproj"
+              "/Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/PokeMudBlazor8.Client.csproj": {
+                "projectPath": "/Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/PokeMudBlazor8.Client.csproj"
               }
             }
           }
@@ -180,7 +166,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/alejandrobarranco/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
