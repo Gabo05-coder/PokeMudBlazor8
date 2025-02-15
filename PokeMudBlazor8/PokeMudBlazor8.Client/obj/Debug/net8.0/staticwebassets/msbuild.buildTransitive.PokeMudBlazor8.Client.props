@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/PokeMudBlazor8.Client.props" />
-</Project>

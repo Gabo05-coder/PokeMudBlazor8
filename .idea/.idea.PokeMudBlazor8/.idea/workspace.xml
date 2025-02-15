@@ -10,7 +10,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9a15a01-5cb9-4a49-81cb-e354bbc16eb1" name="Changes" comment="">
+    <list default="true" id="a9a15a01-5cb9-4a49-81cb-e354bbc16eb1" name="Changes" comment="pipipi">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PokeMudBlazor8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PokeMudBlazor8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/PokeMudBlazor8.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/PokeMudBlazor8.Client.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/PokeMudBlazor8.Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/PokeMudBlazor8.Client.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/wwwroot/_framework/PokeMudBlazor8.Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/wwwroot/_framework/PokeMudBlazor8.Client.pdb" afterDir="false" />
@@ -24,24 +26,20 @@
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/PokeMudBlazor8.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/PokeMudBlazor8.Client.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/PokeMudBlazor8.Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/PokeMudBlazor8.Client.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/blazor.boot.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/compressed/7eoczd8sdp.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/compressed/7u5dfdsc6q.gz" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/compressed/7u5dfdsc6q.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/compressed/fveyapdap7.gz" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/compressed/fveyapdap7.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/ref/PokeMudBlazor8.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/ref/PokeMudBlazor8.Client.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/refint/PokeMudBlazor8.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/refint/PokeMudBlazor8.Client.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/tmp-webcil/PokeMudBlazor8.Client.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/tmp-webcil/PokeMudBlazor8.Client.wasm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/webcil/PokeMudBlazor8.Client.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/webcil/PokeMudBlazor8.Client.wasm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/bin/Debug/net8.0/PokeMudBlazor8.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/bin/Debug/net8.0/PokeMudBlazor8.Client.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/bin/Debug/net8.0/PokeMudBlazor8.Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/bin/Debug/net8.0/PokeMudBlazor8.Client.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/bin/Debug/net8.0/PokeMudBlazor8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/bin/Debug/net8.0/PokeMudBlazor8.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/bin/Debug/net8.0/PokeMudBlazor8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/bin/Debug/net8.0/PokeMudBlazor8.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/bin/Debug/net8.0/PokeMudBlazor8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/bin/Debug/net8.0/PokeMudBlazor8.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/ref/PokeMudBlazor8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/ref/PokeMudBlazor8.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/refint/PokeMudBlazor8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/refint/PokeMudBlazor8.dll" afterDir="false" />
     </list>
@@ -60,15 +58,15 @@
     &quot;assignee&quot;: &quot;Gabo05-coder&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Gabo05-coder/PokeMudBlazor8.git&quot;,
-    &quot;accountId&quot;: &quot;5e4a3321-5e28-49dd-a27e-44fe231578b7&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Gabo05-coder/PokeMudBlazor8.git",
+    "accountId": "9df8b67a-c3c3-4815-b534-87144c9f902b"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://D:/PokemonTestProject/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/Components/Pages/Home.razor" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
-    <setting file="mock://D:/PokemonTestProject/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -80,25 +78,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.PokeMudBlazor8: http.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Launch Settings Profile.PokeMudBlazor8: https.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.PokeMudBlazor8: http.executor": "Run",
+    ".NET Launch Settings Profile.PokeMudBlazor8: https.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;GitIgnore&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "GitIgnore"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.PokeMudBlazor8: https">
     <configuration name="PokeMudBlazor8.Client" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -156,7 +155,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <browser name="37cae5b9-e8b2-4949-9172-aafa37fbc09c" />
+      <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
       <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
       <option name="SEND_DEBUG_REQUEST" value="1" />
@@ -181,6 +180,7 @@
       <option name="presentableId" value="Default" />
       <updated>1739473756278</updated>
       <workItem from="1739473757745" duration="10050000" />
+      <workItem from="1739493532765" duration="3846000" />
     </task>
     <task id="LOCAL-00001" summary="archivos de dudosa procedencia + ajustes a prueba de dar mode en pagina home(prueba exitosa).">
       <option name="closed" value="true" />
@@ -190,7 +190,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739491525070</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="git ignore pa client">
+      <option name="closed" value="true" />
+      <created>1739493666799</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739493666799</updated>
+    </task>
+    <task id="LOCAL-00003" summary="pipipi">
+      <option name="closed" value="true" />
+      <created>1739493748265</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739493748265</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +217,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="archivos de dudosa procedencia + ajustes a prueba de dar mode en pagina home(prueba exitosa)." />
-    <option name="LAST_COMMIT_MESSAGE" value="archivos de dudosa procedencia + ajustes a prueba de dar mode en pagina home(prueba exitosa)." />
+    <MESSAGE value="git ignore pa client" />
+    <MESSAGE value="pipipi" />
+    <option name="LAST_COMMIT_MESSAGE" value="pipipi" />
   </component>
 </project>
