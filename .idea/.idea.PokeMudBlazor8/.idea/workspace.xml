@@ -13,35 +13,7 @@
     <list default="true" id="a9a15a01-5cb9-4a49-81cb-e354bbc16eb1" name="Changes" comment="pipipi">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PokeMudBlazor8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PokeMudBlazor8/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/PokeMudBlazor8.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/PokeMudBlazor8.Client.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/PokeMudBlazor8.Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/PokeMudBlazor8.Client.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/wwwroot/_framework/PokeMudBlazor8.Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/wwwroot/_framework/PokeMudBlazor8.Client.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/wwwroot/_framework/PokeMudBlazor8.Client.pdb.gz" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/wwwroot/_framework/PokeMudBlazor8.Client.pdb.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/wwwroot/_framework/PokeMudBlazor8.Client.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/wwwroot/_framework/PokeMudBlazor8.Client.wasm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/wwwroot/_framework/PokeMudBlazor8.Client.wasm.gz" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/wwwroot/_framework/PokeMudBlazor8.Client.wasm.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/PokeMudBlazor8.Client.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/PokeMudBlazor8.Client.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/PokeMudBlazor8.Client.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/PokeMudBlazor8.Client.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/PokeMudBlazor8.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/PokeMudBlazor8.Client.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/PokeMudBlazor8.Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/PokeMudBlazor8.Client.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/blazor.boot.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/ref/PokeMudBlazor8.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/ref/PokeMudBlazor8.Client.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/refint/PokeMudBlazor8.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/refint/PokeMudBlazor8.Client.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/tmp-webcil/PokeMudBlazor8.Client.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/tmp-webcil/PokeMudBlazor8.Client.wasm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/webcil/PokeMudBlazor8.Client.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/obj/Debug/net8.0/webcil/PokeMudBlazor8.Client.wasm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/bin/Debug/net8.0/PokeMudBlazor8.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/bin/Debug/net8.0/PokeMudBlazor8.Client.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/bin/Debug/net8.0/PokeMudBlazor8.Client.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/bin/Debug/net8.0/PokeMudBlazor8.Client.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/bin/Debug/net8.0/PokeMudBlazor8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/bin/Debug/net8.0/PokeMudBlazor8.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/bin/Debug/net8.0/PokeMudBlazor8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/bin/Debug/net8.0/PokeMudBlazor8.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/PokeMudBlazor8.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/ref/PokeMudBlazor8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/ref/PokeMudBlazor8.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/refint/PokeMudBlazor8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/obj/Debug/net8.0/refint/PokeMudBlazor8.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +152,7 @@
       <option name="presentableId" value="Default" />
       <updated>1739473756278</updated>
       <workItem from="1739473757745" duration="10050000" />
-      <workItem from="1739493532765" duration="3846000" />
+      <workItem from="1739493532765" duration="4275000" />
     </task>
     <task id="LOCAL-00001" summary="archivos de dudosa procedencia + ajustes a prueba de dar mode en pagina home(prueba exitosa).">
       <option name="closed" value="true" />
