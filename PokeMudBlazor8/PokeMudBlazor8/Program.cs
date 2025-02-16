@@ -12,6 +12,7 @@ builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents()
     .AddInteractiveWebAssemblyComponents();
 builder.Services.AddMudServices();
+// no entiendo pq si no registro el servicio de cliente luego tengo errores
 builder.Services.AddScoped<PokemonApiService>();  // Registro del servicio desde cliente PokeApiService
 builder.Services.AddSingleton<PokemonService>(); //importar servicio-> Services/PokemonService
 builder.Services.AddControllers(); // importando Controllers/

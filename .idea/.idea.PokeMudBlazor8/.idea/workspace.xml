@@ -10,10 +10,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9a15a01-5cb9-4a49-81cb-e354bbc16eb1" name="Changes" comment="pipipi">
+    <list default="true" id="a9a15a01-5cb9-4a49-81cb-e354bbc16eb1" name="Changes" comment="Creando Vista para usar el ver pokemones!!">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PokeMudBlazor8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PokeMudBlazor8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/Pages/PokeView.razor" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/Pages/PokeView.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/Services/PokemonApiService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/Services/PokemonApiService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/Controllers/PokeEndpoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/Controllers/PokeEndpoint.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +40,13 @@
   }
 }]]></component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/Pages/PokeView.razor" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/Components/Layout/MainLayout.razor" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/Components/Layout/NavMenu.razor" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -152,7 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1739473756278</updated>
       <workItem from="1739473757745" duration="10050000" />
-      <workItem from="1739493532765" duration="4275000" />
+      <workItem from="1739493532765" duration="16040000" />
     </task>
     <task id="LOCAL-00001" summary="archivos de dudosa procedencia + ajustes a prueba de dar mode en pagina home(prueba exitosa).">
       <option name="closed" value="true" />
@@ -178,7 +186,95 @@
       <option name="project" value="LOCAL" />
       <updated>1739493748265</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="mas ignorazao">
+      <option name="closed" value="true" />
+      <created>1739662071334</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739662071334</updated>
+    </task>
+    <task id="LOCAL-00005" summary="a">
+      <option name="closed" value="true" />
+      <created>1739662084229</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739662084229</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ignorar archivos de compilación">
+      <option name="closed" value="true" />
+      <created>1739662162932</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739662162932</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Unversioned Files">
+      <option name="closed" value="true" />
+      <created>1739662284030</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739662284030</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Editando Main para ajustar el darkmode button">
+      <option name="closed" value="true" />
+      <created>1739664753357</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739664753357</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Creando Servicios de server, agregando RestSharp Nuget, creando SharedModels.">
+      <option name="closed" value="true" />
+      <created>1739665447373</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739665447373</updated>
+    </task>
+    <task id="LOCAL-00010" summary="moviendo el folder xD taba mal">
+      <option name="closed" value="true" />
+      <created>1739665539486</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1739665539486</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Creando Controlador">
+      <option name="closed" value="true" />
+      <created>1739665668488</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1739665668488</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Creacion de Servicio de cliente (Usando endpoint)">
+      <option name="closed" value="true" />
+      <created>1739666563436</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1739666563436</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Registrando servicios en Server y cliente (el servicio de cliente se registra en ambos sino no funciona)">
+      <option name="closed" value="true" />
+      <created>1739666613927</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1739666613927</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Creando Vista para usar el ver pokemones!!">
+      <option name="closed" value="true" />
+      <created>1739666651412</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1739666651412</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +287,17 @@
     <MESSAGE value="archivos de dudosa procedencia + ajustes a prueba de dar mode en pagina home(prueba exitosa)." />
     <MESSAGE value="git ignore pa client" />
     <MESSAGE value="pipipi" />
-    <option name="LAST_COMMIT_MESSAGE" value="pipipi" />
+    <MESSAGE value="mas ignorazao" />
+    <MESSAGE value="a" />
+    <MESSAGE value="Ignorar archivos de compilación" />
+    <MESSAGE value="Unversioned Files" />
+    <MESSAGE value="Editando Main para ajustar el darkmode button" />
+    <MESSAGE value="Creando Servicios de server, agregando RestSharp Nuget, creando SharedModels." />
+    <MESSAGE value="moviendo el folder xD taba mal" />
+    <MESSAGE value="Creando Controlador" />
+    <MESSAGE value="Creacion de Servicio de cliente (Usando endpoint)" />
+    <MESSAGE value="Registrando servicios en Server y cliente (el servicio de cliente se registra en ambos sino no funciona)" />
+    <MESSAGE value="Creando Vista para usar el ver pokemones!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creando Vista para usar el ver pokemones!!" />
   </component>
 </project>

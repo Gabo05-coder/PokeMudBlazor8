@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using MudBlazor.Services;
 using PokeMudBlazor8.Client.Services;
 
+
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 
 // Registra el servicio de Pokémon

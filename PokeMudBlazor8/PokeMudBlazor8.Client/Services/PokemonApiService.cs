@@ -2,7 +2,6 @@ using RestSharp;
 using SharedModels;
 
 namespace PokeMudBlazor8.Client.Services
-
 {
     public class PokemonApiService
     {

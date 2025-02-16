@@ -2,7 +2,6 @@ using Microsoft.AspNetCore.Mvc;
 using PokeMudBlazor8.Components.Services;
 
 namespace PokeMudBlazor8.Controllers
-
 {
     [Route("api/[controller]")]
     [ApiController]
