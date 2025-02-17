@@ -10,13 +10,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9a15a01-5cb9-4a49-81cb-e354bbc16eb1" name="Changes" comment="Creando Vista para usar el ver pokemones!!">
+    <list default="true" id="a9a15a01-5cb9-4a49-81cb-e354bbc16eb1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PokeMudBlazor8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PokeMudBlazor8/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/Pages/PokeView.razor" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/Pages/PokeView.razor" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/Services/PokemonApiService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8.Client/Services/PokemonApiService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/Controllers/PokeEndpoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/Controllers/PokeEndpoint.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/Services/PokemonService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PokeMudBlazor8/PokeMudBlazor8/Services/PokemonService.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,19 +33,35 @@
     &quot;assignee&quot;: &quot;Gabo05-coder&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Gabo05-coder/PokeMudBlazor8.git",
-    "accountId": "9df8b67a-c3c3-4815-b534-87144c9f902b"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Gabo05-coder/PokeMudBlazor8.git&quot;,
+    &quot;accountId&quot;: &quot;9df8b67a-c3c3-4815-b534-87144c9f902b&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/Pages/PokeView.razor" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/Pages/PokeView.razor" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/Pages/PokeView.razor" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/Pages/PokeView.razor" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
     <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/Services/PokemonApiService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/Services/PokemonApiService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/Services/PokemonApiService.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8.Client/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/Components/Layout/MainLayout.razor" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
     <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/Components/Layout/NavMenu.razor" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/Controllers/PokeEndpoint.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/Controllers/PokeEndpoint.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/Controllers/PokeEndpoint.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/Controllers/PokeEndpoint.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Users/alejandrobarranco/RiderProjects/PokeMudBlazor8/PokeMudBlazor8/PokeMudBlazor8/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -58,26 +74,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.PokeMudBlazor8: http.executor": "Run",
-    ".NET Launch Settings Profile.PokeMudBlazor8: https.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.PokeMudBlazor8: http.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Launch Settings Profile.PokeMudBlazor8: https.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;RiderNuGetOptionsPageId&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "GitIgnore"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;GitIgnore&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.PokeMudBlazor8: https">
     <configuration name="PokeMudBlazor8.Client" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -160,7 +177,8 @@
       <option name="presentableId" value="Default" />
       <updated>1739473756278</updated>
       <workItem from="1739473757745" duration="10050000" />
-      <workItem from="1739493532765" duration="16040000" />
+      <workItem from="1739493532765" duration="31145000" />
+      <workItem from="1739740265468" duration="1606000" />
     </task>
     <task id="LOCAL-00001" summary="archivos de dudosa procedencia + ajustes a prueba de dar mode en pagina home(prueba exitosa).">
       <option name="closed" value="true" />
@@ -274,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739666651412</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="aqui no ha pasado nada (si paso namas q lo arregle)">
+      <option name="closed" value="true" />
+      <created>1739682006752</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1739682006752</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,6 +308,17 @@
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="archivos de dudosa procedencia + ajustes a prueba de dar mode en pagina home(prueba exitosa)." />
@@ -298,6 +335,7 @@
     <MESSAGE value="Creacion de Servicio de cliente (Usando endpoint)" />
     <MESSAGE value="Registrando servicios en Server y cliente (el servicio de cliente se registra en ambos sino no funciona)" />
     <MESSAGE value="Creando Vista para usar el ver pokemones!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creando Vista para usar el ver pokemones!!" />
+    <MESSAGE value="aqui no ha pasado nada (si paso namas q lo arregle)" />
+    <option name="LAST_COMMIT_MESSAGE" value="aqui no ha pasado nada (si paso namas q lo arregle)" />
   </component>
 </project>

@@ -2,7 +2,8 @@ using PokeMudBlazor8.Client.Pages;
 using PokeMudBlazor8.Components;
 using MudBlazor.Services;
 using PokeMudBlazor8.Client.Services;
-using PokeMudBlazor8.Components.Services;
+using PokeMudBlazor8.Services;
+
 
 
 var builder = WebApplication.CreateBuilder(args);

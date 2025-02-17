@@ -1,23 +1,43 @@
 @page "/PokeView"
-@using PokeMudBlazor8.Client.Services
 @using SharedModels
-@inject PokemonApiService PokemonApiService
+@using MudBlazor
+@rendermode InteractiveAuto
 
-<h3>Pokémons Obtenidos del Servidor</h3>
+@* @Attribute [Autorize] *@
 
-@if (pokemons == null || pokemons.Count == 0)
+@inject PokeMudBlazor8.Client.Services.PokemonApiService PokemonApiService
+<MudDialogProvider/>
+<MudSnackbarProvider/>
+
+<h3>Aqui hay algunos Pokemones</h3>
+
+@if (pokemons == null)
 {
     <p>Cargando...</p>
 }
+else if (pokemons.Count == 0)
+{
+    <p>No se pudieron obtener Pokémon.</p>
+}
 else
 {
-    <MudGrid Spacing="3">
+    <MudGrid>
         @foreach (var pokemon in pokemons)
         {
             <MudItem xs="12" sm="6" md="4" lg="3">
-                <MudPaper Class="pa-3 text-center" Elevation="4">
-                    <img src="@pokemon.Sprites.FrontDefault" alt="@pokemon.Name" style="width: 150px; height: 150px;" />
-                    <h4>@pokemon.Name</h4>
+                <MudPaper Class="p-2 m-2" Elevation="4">
+                    <strong>@pokemon.Name</strong>
+                    <br/>
+                    <img src="@pokemon.Sprites.FrontDefault" alt="@pokemon.Name" />
+                    <br/>
+                    <div Class="d-flex flex-wrap gap-2 mt-2">
+                        @foreach (var type in pokemon.Types)
+                        {
+                            <MudChip T="String" Color="Color.Primary" Variant="Variant.Filled" Class="text-white">
+                                @type.Type.Name
+                            </MudChip>
+                        }
+                    </div>
                 </MudPaper>
             </MudItem>
         }
@@ -25,11 +45,10 @@ else
 }
 
 @code {
-    private List<Pokemon> pokemons = new List<Pokemon>();
+    private List<Pokemon> pokemons;
 
     protected override async Task OnInitializedAsync()
     {
-        // Llama al servicio para obtener la lista de pokemons
-        pokemons = await PokemonApiService.GetPokemonsAsync();
+        pokemons = await PokemonApiService.GetPokemonsAsync(12);
     }
 }

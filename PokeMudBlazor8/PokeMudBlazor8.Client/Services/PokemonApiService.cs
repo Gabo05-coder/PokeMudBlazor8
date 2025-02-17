@@ -6,44 +6,25 @@ namespace PokeMudBlazor8.Client.Services
     public class PokemonApiService
     {
         private readonly RestClient _client;
-        private readonly int MaxPokemonId = 1010; // Hasta el último Pokémon en la PokéAPI
 
+        // Ajusta la URL base al dominio donde esté tu backend
         public PokemonApiService()
         {
-            _client = new RestClient("https://pokeapi.co/api/v2/");
+            _client = new RestClient("https://localhost:7195/api/");
         }
 
         public async Task<List<Pokemon>> GetPokemonsAsync(int count = 16)
         {
-            var pokemons = new List<Pokemon>();
-            var randomIds = GetRandomIds(count);
+            var request = new RestRequest($"pokemon/pokemons?count={count}", Method.Get);
+            var response = await _client.ExecuteAsync<List<Pokemon>>(request);
 
-            foreach (var id in randomIds)
+            if (response.IsSuccessful && response.Data != null)
             {
-                var request = new RestRequest($"pokemon/{id}", Method.Get);
-                var response = await _client.ExecuteAsync<Pokemon>(request);
-
-                if (response.IsSuccessful && response.Data != null)
-                {
-                    pokemons.Add(response.Data);
-                }
+                return response.Data;
             }
 
-            return pokemons;
-        }
-
-        private List<int> GetRandomIds(int count)
-        {
-            var random = new Random();
-            var ids = new HashSet<int>();
-
-            while (ids.Count < count)
-            {
-                int randomId = random.Next(1, MaxPokemonId + 1);
-                ids.Add(randomId);
-            }
-
-            return ids.ToList();
+            // Si falla la solicitud, devuelve una lista vacía o maneja el error
+            return new List<Pokemon>();
         }
     }
 }
