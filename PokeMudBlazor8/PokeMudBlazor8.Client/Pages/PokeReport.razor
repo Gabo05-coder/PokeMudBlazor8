@@ -1,0 +1,46 @@
+@page "/poke-stimul"
+@using Stimulsoft.Report
+@using Stimulsoft.Report.Blazor
+@using PokeMudBlazor8.Client.Services
+@using Stimulsoft.Report.Web
+@inject PokemonApiService PokemonApiService
+
+<h3>Pokémon Report Designer</h3>
+
+<StiBlazorDesigner Report="@report"
+                   Width="1000" Height="800"
+                   Theme="StiDesignerTheme.Office2013LightGrayCarmine" />  <!-- si agrego esto Theme="StiDesignerTheme.Office2013LightGrayCarmine" no funciona el report.load-->
+
+
+@code {
+    private StiReport report = new StiReport();
+
+    //Viewer options object
+    
+    protected override async Task OnInitializedAsync()
+    {
+        base.OnInitialized();
+        
+        var pokemons = await PokemonApiService.GetPokemonsAsync(12);
+
+        // Crear DataTable y agregar los Pokémon
+        var dataTable = new System.Data.DataTable("Pokemons");
+        dataTable.Columns.Add("Name", typeof(string));
+
+        foreach (var pokemon in pokemons)
+        {
+            dataTable.Rows.Add(pokemon.Name);
+        }
+
+        // Cargar DataTable en el reporte
+        var dataSet = new System.Data.DataSet();
+        dataSet.Tables.Add(dataTable);
+
+        report.RegData("PokemonsData", dataSet);
+        report.Dictionary.Synchronize();
+
+        
+    }
+    
+    
+}

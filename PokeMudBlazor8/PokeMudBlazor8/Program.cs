@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using PokeMudBlazor8.Client.Pages;
 using PokeMudBlazor8.Components;
 using MudBlazor.Services;
@@ -17,10 +18,16 @@ builder.Services.AddMudServices();
 builder.Services.AddScoped<PokemonApiService>();  // Registro del servicio desde cliente PokeApiService
 builder.Services.AddSingleton<PokemonService>(); //importar servicio-> Services/PokemonService
 builder.Services.AddControllers(); // importando Controllers/
-
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseMySql(
+        builder.Configuration.GetConnectionString("DefaultConnection"),
+        new MySqlServerVersion(new Version(8, 0, 35)) // Ajusta la versión según tu MySQL
+    )
+);
 
 var app = builder.Build();
 app.UseRouting(); 
+app.UseStaticFiles();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

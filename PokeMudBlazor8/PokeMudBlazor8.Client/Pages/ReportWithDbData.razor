@@ -1,0 +1,47 @@
+@page "/report-Db"
+@using Microsoft.EntityFrameworkCore
+@using Stimulsoft.Report
+@using Stimulsoft.Report.Blazor
+@using Stimulsoft.Report.Web
+
+@inject ApplicationDbContext DbContext
+
+<h3>Diseñador de Reportes - Usuarios</h3>
+
+<StiBlazorDesigner Report="@report"
+                   Width="1000" Height="800"
+                   Theme="StiDesignerTheme.Office2013LightGrayCarmine" />
+
+@code {
+    private StiReport report;
+
+    protected override async Task OnInitializedAsync()
+    {
+        report = new StiReport();
+
+        // Cargar la plantilla desde Templates/report.mrt
+        report.Load("Templates/report.mrt");
+
+        // Obtener los datos desde la BD
+        var users = await DbContext.Users.ToListAsync();
+
+        // Crear DataTable con múltiples usuarios
+        var dataTable = new System.Data.DataTable("Users");
+        dataTable.Columns.Add("UserId", typeof(int));
+        dataTable.Columns.Add("FirstName", typeof(string));
+        dataTable.Columns.Add("LastName", typeof(string));
+
+        foreach (var user in users)
+        {
+            dataTable.Rows.Add(user.UserId, user.FirstName, user.LastName);
+        }
+
+        // Crear DataSet y agregarlo al reporte
+        var dataSet = new System.Data.DataSet();
+        dataSet.Tables.Add(dataTable);
+        report.RegData("UsersData", dataSet);
+
+        // Sincronizar el diccionario para reconocer las columnas
+        report.Dictionary.Synchronize();
+    }
+}
