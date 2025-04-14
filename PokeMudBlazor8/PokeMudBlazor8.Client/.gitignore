@@ -370,3 +370,8 @@ obj/
 *.gz
 *.cache
 *.xml
+
+# IDE files
+.idea/
+*.xml
+workspace.xml
