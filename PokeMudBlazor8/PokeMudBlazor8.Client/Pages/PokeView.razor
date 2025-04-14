@@ -1,13 +1,12 @@
 @page "/PokeView"
 @using SharedModels
 @using MudBlazor
-@rendermode InteractiveAuto
+@rendermode InteractiveServer
 
 @* @Attribute [Autorize] *@
 
 @inject PokeMudBlazor8.Client.Services.PokemonApiService PokemonApiService
-<MudDialogProvider/>
-<MudSnackbarProvider/>
+
 
 <h3>Aqui hay algunos Pokemones</h3>
 
