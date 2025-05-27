@@ -375,3 +375,4 @@ obj/
 .idea/
 *.xml
 workspace.xml
+.idea/workspace.xml
